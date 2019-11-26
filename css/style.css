@@ -504,6 +504,10 @@ Concept section
 	padding-top: 5px;
 }
 
+.concept-highlight {
+	color: red;
+}
+
 .concept-item {
 	text-align: center;
 	padding-top: 35px;
@@ -534,7 +538,7 @@ Subscription section
 }
 
 .sub-text h3 {
-	color: #fc0254;
+	color: #fc0254; 
 	margin-bottom: 30px;
 	font-weight: 500;
 }
