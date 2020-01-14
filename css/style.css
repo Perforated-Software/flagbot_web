@@ -502,6 +502,8 @@ Concept section
 
 .concept-section p {
 	padding-top: 5px;
+	font-size: larger;
+	font-weight: bold;
 }
 
 .concept-highlight {
