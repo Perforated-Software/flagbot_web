@@ -1,1 +1,1 @@
-Thanks for hosting GitHub!
+Thanks for hosting, GitHub!
